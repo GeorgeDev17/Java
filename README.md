@@ -1,5 +1,4 @@
-# Java
-Curso Introduction to Java de la App Sololearn 
+# Curso Introduction to Java de la App Sololearn 
 
 Los retos en este repo maneja los siguiente temas:
 

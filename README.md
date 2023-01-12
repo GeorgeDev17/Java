@@ -2,8 +2,8 @@
 El contenido en este repositorio esta basado en lo aprendido durante el cursado.
 
 ### Lenguajes usados en este repositorio:
-Los retos en este repo maneja los siguiente temas:
 
+![java-96px](https://user-images.githubusercontent.com/54302061/212118577-c29b7faa-5242-4aa8-9444-9a7afd505a4d.png)
 -------
 
 Temario del repositorio 👨‍💻
